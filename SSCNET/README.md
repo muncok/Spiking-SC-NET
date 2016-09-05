@@ -1,1 +1,1 @@
-these files were located at matconvnet-1.0-CNN\examples\
+These files were located at matconvnet-1.0-CNN\examples\
